@@ -1,4 +1,5 @@
-def base_hash
+def base_hash[]
+  base_hash = {:name}
  
 	{}
 end
